@@ -57,7 +57,7 @@ public class PopulationAnalyze {
 	}
 
 	public void run() {
-		String csvFile = "//Users//udayvw//Downloads//75f647c2ac77-Metropolitan_Populations_2010-2012_.csv";
+		String csvFile = "75f647c2ac77-Metropolitan_Populations_2010-2012_.csv";
 		BufferedReader br = null;
 		String line = "";
 		String cvsSplitBy = ",";
